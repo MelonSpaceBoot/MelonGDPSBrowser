@@ -6,6 +6,7 @@
     "authorLink": "https://www.youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw",
     "id": "mgdps",
     "endpoint": "http://melon.ps.fhgdps.com/database/",
+    "disabled": ["daily", "weekly"],
     "timestampSuffix": " ago",
     "demonList": "https://pointercrate.com/",
     "downloadsDisabled": true,
